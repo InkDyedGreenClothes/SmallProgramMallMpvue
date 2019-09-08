@@ -1,0 +1,12 @@
+{
+  "appid": "npm root -g",
+  "setting": {
+    "urlCheck": false
+  },
+  "condition": {
+    "swan": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
